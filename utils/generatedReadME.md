@@ -1,11 +1,11 @@
 
-  # Dummy Stuff
+  # Dummy Info
 
   ![badge](https://img.shields.io/badge/license-MIT-blueviolet)
   <br />
 
   ## Description
-  This is just a blerp description 
+  This here would be the description of the project I am creating the readme for
   
  ------------------
  ------------------
@@ -23,17 +23,17 @@
  ------------------
 
  ## Installation
-  No depedencies needed
+  Run npm i for node
   
   ------------------
 
  ## Usage
-  You know, just install it.
+  In the command line type npm i and hit enter
 
   ------------------
 
  ## Credit
-  Kelley Worthington
+  Kelley W. 
 
   ------------------
 
@@ -58,6 +58,6 @@
   ------------------
   
  ## Email
- [Email Me](mailto:jessica.hardisty.333@hotmail.com)
+ [Email Me](mailto:jessica.hardisty@hotmail.com)
 
   ------------------
