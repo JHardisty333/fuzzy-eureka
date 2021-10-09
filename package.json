@@ -1,0 +1,23 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "Generate a README template from the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JHardisty333",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JHardisty333/fuzzy-eureka.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JHardisty333/fuzzy-eureka/issues"
+  },
+  "homepage": "https://github.com/JHardisty333/fuzzy-eureka#readme"
+}
