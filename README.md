@@ -1,22 +1,42 @@
-# README Generator
+# ReadME Generator
 ## Week 9 Challenge
 
+---
+
 ## Scope
-Giving users a fast and easy way to track their money is important but allowing them to access that information at any time is even more important. The Budget tracker is a Progressive Web Application that gives users a place to quickly track their budget with offline functionality so they can do it whenever where ever!
+When creating an open-source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project. With this application, you can quickly and easily generate a README file by using a command-line process to create the start of a perfect readme.
 
-## Mockup 
-The following image shows the web application's appearance and functionality:
+---
 
-<img width="500" alt="19-pwa-homework-demo-01" src="https://user-images.githubusercontent.com/82549162/133357708-30aa0c45-84ae-4bf6-a841-61f06eb1ec13.png">
+# Demo
 
-## Website link 
+### Final Deployment
+This animation shows the result of the deployed application:
 
-https://jhardisty333.github.io/silver-carnival/
+<img width="500" alt="Demo-gif" src="https://user-images.githubusercontent.com/82549162/137236933-d5cffe2a-9609-444c-a16f-2f83e6232bc9.gif">
 
+### Video Walkthrough
+The following video demonstrates the functionality and process of the application:
+
+https://user-images.githubusercontent.com/82549162/137237016-9c155a92-9f6f-45c3-9173-3b9569e85a73.mp4
+
+---
 
 ## Built With
-*HTML *CSS *JS
+*Node *JS
 
 ## Contribution
-Made by Jessica H. 🖤
+Made by Jessica H. 🖤 
+
+With the wonderful help of <a href="https://github.com/kelleymarne">Kelley W.</a>
+
+---
+
+## Resources 
+
+<a href="https://stackoverflow.com/">StackOverflow</a>
+
+<a href="https://github.com/SBoudrias/Inquirer.js/tree/master/packages/inquirer/examples">GitHub Inquirer</a>
+
+<a href="https://github.com/kelleymarne/ReadMe-generator">Kelley's ReadMe Generator</a>
 

@@ -1,63 +1,58 @@
 
-  # Dummy Info
+  # ReadME Demo
 
   ![badge](https://img.shields.io/badge/license-MIT-blueviolet)
   <br />
 
   ## Description
-  This here would be the description of the project I am creating the readme for
+  Here I am generating a high-quality readme
   
  ------------------
  ------------------
 
- ## Table of Contents 🔎
+ ## Table of Contents 
  - [Installation](#installation)
  - [Usage](#usage)
  - [Credit](#credit)
- - [Experience](#experience)
+ - [Tests](#test)
  - [License](#license)
- - [Github](#github)
- - [Email](#email)
+ - [Reach Out](#questions)
 
  ------------------
  ------------------
 
  ## Installation
-  Run npm i for node
+  Download repo, run npm init, then node index.js
   
   ------------------
 
  ## Usage
-  In the command line type npm i and hit enter
+  In the command line you will follow and fill out the prompted questions until file is created
 
   ------------------
 
  ## Credit
-  Kelley W. 
+  Kelley W.
 
   ------------------
 
- ## Experience
-  Mice
+ ## Tests
+  Here is a video showing functionality (Clip to be added)
 
   ------------------
   
  ## License
-  MIT
-  <br>
   ![badge](https://img.shields.io/badge/license-MIT-blueviolet) 
-  <br>
-  This application is protected by MIT license.
-
-  ------------------
-
- ## Github
- [GitHub](https://github.com/JHardisty333)
-
-
-  ------------------
   
- ## Email
- [Email Me](mailto:jessica.hardisty@hotmail.com)
+  This application is protected by the MIT license.
+
+  ------------------
+
+ ## Questions?
+ Feel free to reach out!
+
+ [GitHub](https://github.com/JHardisty333)
+ 
+ [Email Me](mailto:jess@test.com)
 
   ------------------
