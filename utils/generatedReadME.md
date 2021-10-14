@@ -1,11 +1,11 @@
 
-  # Test Readme
+  # ReadME Demo
 
   ![badge](https://img.shields.io/badge/license-MIT-blueviolet)
   <br />
 
   ## Description
-  This is a test for my readme generator
+  Here I am generating a high quality readme
   
  ------------------
  ------------------
@@ -14,21 +14,20 @@
  - [Installation](#installation)
  - [Usage](#usage)
  - [Credit](#credit)
- - [Experience](#experience)
+ - [Tests](#test)
  - [License](#license)
- - [Github](#github)
- - [Email](#email)
+ - [Contact](#questions)
 
  ------------------
  ------------------
 
  ## Installation
-  node.js
+  Download repo, run npm init, then node index.js
   
   ------------------
 
  ## Usage
-  pull down the repo, run npm i then node
+  In the command line you will follow and fill out the prompted questions until it says the file was created
 
   ------------------
 
@@ -37,27 +36,22 @@
 
   ------------------
 
- ## Experience
-  Mice
+ ## Tests
+  Here is a video showing functionality (Clip to be added)
 
   ------------------
   
  ## License
-  MIT
-  <br>
   ![badge](https://img.shields.io/badge/license-MIT-blueviolet) 
-  <br>
-  This application is protected by MIT license.
-
-  ------------------
-
- ## Github
- [GitHub](https://github.com/JHardisty333)
-
-
-  ------------------
   
- ## Email
+  This application is protected by the MIT license.
+
+  ------------------
+
+ ## Questions?
+ Feel free to reach out!
+
+ [GitHub](https://github.com/JHardisty333)
  [Email Me](mailto:jess@test.com)
 
   ------------------
