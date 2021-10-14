@@ -28,7 +28,7 @@ function generateMarkdown(data) {
  - [Installation](#installation)
  - [Usage](#usage)
  - [Credit](#credit)
- - [Experience](#experience)
+ - [Tests](#test)
  - [License](#license)
  - [Github](#github)
  - [Email](#email)
@@ -51,27 +51,25 @@ function generateMarkdown(data) {
 
   ------------------
 
- ## Experience
-  ${data.experience}
+ ## Tests
+  ${data.test}
 
   ------------------
   
  ## License
-  ${data.license}
+  // ${data.license}
   <br>
   ![badge](https://img.shields.io/badge/license-${data.license}-blueviolet) 
   <br>
-  This application is protected by ${data.license} license.
+  This application is protected by the ${data.license} license.
 
   ------------------
 
- ## Github
+ ## Questions?
+ Feel free to reach out!
+ <br>
  [GitHub](https://github.com/${data.github})
-
-
-  ------------------
-  
- ## Email
+ <br>
  [Email Me](mailto:${data.email})
 
   ------------------

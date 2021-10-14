@@ -19,17 +19,17 @@ const questions = [
     {
         type: 'input',
         name: 'description',
-        message: 'Please enter a description of your project.'
+        message: 'What is the scope of your project? Enter a description or introduction to what you are doing. '
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'List out the steps for any dependencies that need to be installed.'
+        message: 'How does the user install your application? List out the steps for any dependencies that need to be installed.'
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'What are the instructions on how to use this project?'
+        message: 'How do you use the application?'
     },
     {
         type: 'input',
@@ -38,8 +38,8 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'experience',
-        message: 'What are some experiences from this project that stood out to you?'
+        name: 'test',
+        message: 'Did you test or demo the project? Add any helpful information.'
     },
     {
         type: 'list',

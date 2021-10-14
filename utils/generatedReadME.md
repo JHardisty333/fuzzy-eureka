@@ -1,11 +1,11 @@
 
-  # Dummy Info
+  # Test Readme
 
   ![badge](https://img.shields.io/badge/license-MIT-blueviolet)
   <br />
 
   ## Description
-  This here would be the description of the project I am creating the readme for
+  This is a test for my readme generator
   
  ------------------
  ------------------
@@ -23,17 +23,17 @@
  ------------------
 
  ## Installation
-  Run npm i for node
+  node.js
   
   ------------------
 
  ## Usage
-  In the command line type npm i and hit enter
+  pull down the repo, run npm i then node
 
   ------------------
 
  ## Credit
-  Kelley W. 
+  Kelley W.
 
   ------------------
 
@@ -58,6 +58,6 @@
   ------------------
   
  ## Email
- [Email Me](mailto:jessica.hardisty@hotmail.com)
+ [Email Me](mailto:jess@test.com)
 
   ------------------
