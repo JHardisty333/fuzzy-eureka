@@ -5,18 +5,18 @@
   <br />
 
   ## Description
-  Here I am generating a high quality readme
+  Here I am generating a high-quality readme
   
  ------------------
  ------------------
 
- ## Table of Contents 🔎
+ ## Table of Contents 
  - [Installation](#installation)
  - [Usage](#usage)
  - [Credit](#credit)
  - [Tests](#test)
  - [License](#license)
- - [Contact](#questions)
+ - [Reach Out](#questions)
 
  ------------------
  ------------------
@@ -27,7 +27,7 @@
   ------------------
 
  ## Usage
-  In the command line you will follow and fill out the prompted questions until it says the file was created
+  In the command line you will follow and fill out the prompted questions until file is created
 
   ------------------
 
@@ -52,6 +52,7 @@
  Feel free to reach out!
 
  [GitHub](https://github.com/JHardisty333)
+ 
  [Email Me](mailto:jess@test.com)
 
   ------------------

@@ -24,7 +24,7 @@ function generateMarkdown(data) {
  ------------------
  ------------------
 
- ## Table of Contents 🔎
+ ## Table of Contents 
  - [Installation](#installation)
  - [Usage](#usage)
  - [Credit](#credit)
@@ -66,6 +66,7 @@ function generateMarkdown(data) {
  Feel free to reach out!
 
  [GitHub](https://github.com/${data.github})
+ 
  [Email Me](mailto:${data.email})
 
   ------------------
